@@ -3,14 +3,14 @@ Step-by-Step: Activate Hulu with a Code on New Devices
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_31-removebg-preview.png
    :width: 350px
    :align: center
    :height: 100px
